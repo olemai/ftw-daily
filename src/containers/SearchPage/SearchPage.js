@@ -75,7 +75,7 @@ export class SearchPageComponent extends Component {
         options: amenities,
       },
       priceFilter: {
-        paramName: 'price',
+        paramName: 'pricing',
         config: priceFilterConfig,
       },
       dateRangeFilter: {
